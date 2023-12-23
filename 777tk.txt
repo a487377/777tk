@@ -1,11 +1,1 @@
-{
-  "links": {
-    "shopCenter":"https://tiktok003.top/#/home?route=shopCenter&",
-    "goodsList":"https://tk.csgoshoppingn.cc/pages/management/management?route=goodsList&",
-    "orderList":"https://tk.csgoshoppingn.cc/pages/order/order?route=orderList&",
-    "tkchat_history":"https://tk.csgoshoppingn.cc/open_api/tkchat_history",
-    "tkchat_state":"https://tk.csgoshoppingn.cc/open_api/tkchat_state",
-    "tktab_text":"https://tk.csgoshoppingn.cc/open_api/tab_text",
-    "tk_crash_url":"https://tk.csgoshoppingn.cc/open_api/crash_log"
-  }
-}
+ewogICJsaW5rcyI6IHsKICAgICJzaG9wQ2VudGVyIjoiaHR0cHM6Ly90aWt0b2swMDMudG9wLyMvaG9tZT9yb3V0ZT1zaG9wQ2VudGVyJiIsCiAgICAiZ29vZHNMaXN0IjoiaHR0cHM6Ly90ay5jc2dvc2hvcHBpbmduLmNjL3BhZ2VzL21hbmFnZW1lbnQvbWFuYWdlbWVudD9yb3V0ZT1nb29kc0xpc3QmIiwKICAgICJvcmRlckxpc3QiOiJodHRwczovL3RrLmNzZ29zaG9wcGluZ24uY2MvcGFnZXMvb3JkZXIvb3JkZXI/cm91dGU9b3JkZXJMaXN0JiIsCiAgICAidGtjaGF0X2hpc3RvcnkiOiJodHRwczovL3RrLmNzZ29zaG9wcGluZ24uY2Mvb3Blbl9hcGkvdGtjaGF0X2hpc3RvcnkiLAogICAgInRrY2hhdF9zdGF0ZSI6Imh0dHBzOi8vdGsuY3Nnb3Nob3BwaW5nbi5jYy9vcGVuX2FwaS90a2NoYXRfc3RhdGUiLAogICAgInRrdGFiX3RleHQiOiJodHRwczovL3RrLmNzZ29zaG9wcGluZ24uY2Mvb3Blbl9hcGkvdGFiX3RleHQiLAogICAgInRrX2NyYXNoX3VybCI6Imh0dHBzOi8vdGsuY3Nnb3Nob3BwaW5nbi5jYy9vcGVuX2FwaS9jcmFzaF9sb2ciCiAgfQp9
