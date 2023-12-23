@@ -1,0 +1,11 @@
+{
+  "links": {
+    "shopCenter":"https://tiktok003.top/#/home?route=shopCenter&",
+    "goodsList":"https://tk.csgoshoppingn.cc/pages/management/management?route=goodsList&",
+    "orderList":"https://tk.csgoshoppingn.cc/pages/order/order?route=orderList&",
+    "tkchat_history":"https://tk.csgoshoppingn.cc/open_api/tkchat_history",
+    "tkchat_state":"https://tk.csgoshoppingn.cc/open_api/tkchat_state",
+    "tktab_text":"https://tk.csgoshoppingn.cc/open_api/tab_text",
+    "tk_crash_url":"https://tk.csgoshoppingn.cc/open_api/crash_log"
+  }
+}
